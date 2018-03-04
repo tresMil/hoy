@@ -4,3 +4,5 @@ http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
  
 #EXTINF:-1,UNIVISION TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1, TDN-1
+http://51.15.222.188/live/udn/439442.ts
